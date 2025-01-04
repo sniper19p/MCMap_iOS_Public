@@ -2,6 +2,8 @@
 
 An interactive map application that combines real-world location data with Minecraft-style visualization. Explore the world around you with a unique fog-of-war system and terrain generation inspired by Minecraft.
 
+This project is an iOS implementation inspired by [MC_Map](https://github.com/Concept-Bytes/MC_Map) by [Concept-Bytes](https://github.com/Concept-Bytes). The original project's innovative approach to Minecraft-style map visualization served as the foundation for this iOS adaptation.
+
 ## Features
 
 - Real-time location tracking
@@ -34,6 +36,10 @@ An interactive map application that combines real-world location data with Minec
 2. Start walking around to reveal the map
 3. Use the slider to adjust your visibility radius
 4. Watch as different terrain types are revealed based on your location
+
+## Credits
+
+This project is based on the original [MC_Map](https://github.com/Concept-Bytes/MC_Map) Python implementation by [Concept-Bytes](https://github.com/Concept-Bytes). The terrain generation algorithms and Minecraft-style visualization concepts were adapted from their work.
 
 ## Contributing
 
